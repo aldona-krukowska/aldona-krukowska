@@ -1,4 +1,4 @@
-<img src="/header-jr FD.jpg" alt="header">
+<img src="/header-jr FrD.jpg" alt="header">
 <h1 align="center">Hi 👋, I'm Aldona</h1>
 <h3 align="center">A junior frontend developer from Poland</h3>
 <p>I started learning programming with online courses and self-study from videos and tutorials. I decided to start a course to completely rebrand myself and start working as a Frontend Developer and this is my main goal. Perhaps I'll steer towards game programming one day, or complex web design (UI+UX+Front). </p>
